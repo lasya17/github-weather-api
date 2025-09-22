@@ -1,4 +1,4 @@
-# GitHub User & City Weather API 🌦️
+# GitHub User & City Weather API 
 
 Two simple FastAPI endpoints:
 1. `/get_github_user?username=<username>` → GitHub user profile
